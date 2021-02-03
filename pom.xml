@@ -10,7 +10,10 @@
       <modules>
         <module>demo-common</module>
          <module>demo-pojo</module>
-     </modules>
+          <module>demo-mapper</module>
+          <module>demo-service</module>
+          <module>demo-api</module>
+      </modules>
 
     <packaging>pom</packaging>
 </project>
