@@ -1,0 +1,14 @@
+com\zl\mapper\OrderItemsMapper.class
+com\zl\mapper\OrdersMapper.class
+com\zl\mapper\StuMapper.class
+com\zl\mapper\UsersMapper.class
+com\zl\mapper\CategoryMapper.class
+com\zl\mapper\OrderStatusMapper.class
+com\zl\my\mapper\MyMapper.class
+com\zl\mapper\ItemsCommentsMapper.class
+com\zl\mapper\CarouselMapper.class
+com\zl\mapper\ItemsImgMapper.class
+com\zl\mapper\ItemsMapper.class
+com\zl\mapper\ItemsSpecMapper.class
+com\zl\mapper\ItemsParamMapper.class
+com\zl\mapper\UserAddressMapper.class

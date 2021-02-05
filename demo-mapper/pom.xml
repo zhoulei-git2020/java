@@ -12,10 +12,10 @@
     <artifactId>demo-mapper</artifactId>
 
     <dependencies>
-    <!--
-        mapper -> pojo -> common
-        mapper通过pojo是可以使用common中相应的方法的
-    -->
+        <!--
+            mapper -> pojo -> common
+            mapper通过pojo是可以使用common中相应的方法的
+        -->
 
         <dependency>
             <groupId>com.zl</groupId>

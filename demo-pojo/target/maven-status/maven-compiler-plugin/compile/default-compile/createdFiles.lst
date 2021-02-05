@@ -1,0 +1,13 @@
+com\zl\pojo\OrderStatus.class
+com\zl\pojo\OrderItems.class
+com\zl\pojo\ItemsParam.class
+com\zl\pojo\ItemsComments.class
+com\zl\pojo\ItemsImg.class
+com\zl\pojo\Category.class
+com\zl\pojo\Carousel.class
+com\zl\pojo\ItemsSpec.class
+com\zl\pojo\Orders.class
+com\zl\pojo\Stu.class
+com\zl\pojo\Users.class
+com\zl\pojo\Items.class
+com\zl\pojo\UserAddress.class
